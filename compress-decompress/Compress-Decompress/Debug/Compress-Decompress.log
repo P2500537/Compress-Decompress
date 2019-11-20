@@ -1,0 +1,7 @@
+﻿  Compression.cpp
+c:\users\dratedoni\desktop\compress-decompress\compress-decompress\src\compression.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  Decompress.cpp
+c:\users\dratedoni\desktop\compress-decompress\compress-decompress\src\decompress.cpp(15): warning C4018: '<=': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Compress-Decompress.vcxproj -> C:\Users\Dratedoni\Desktop\compress-decompress\Debug\Compress-Decompress.exe
